@@ -26,6 +26,7 @@ Recently, I’ve expanded my expertise into AI and Prompt Engineering, applying 
 - 🤖 AI Sales Prediction Model – Achieved 99% forecasting accuracy using machine learning
 - 🔐 Secure Encryption Platform – Built a system for secure text & image data sharing
 - 🎮 LudusHub – Developing a gaming community platform (in progress)
+- - ⛏️ [Mining Data Engineering Pipeline](https://github.com/Almha10/Mining-Data-Pipeline) – Built an end-to-end data pipeline for mining data analysis and machine learning insights
 
   ## 🛠 Skills
 - Power BI, Excel, Data Analysis  
