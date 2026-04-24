@@ -22,6 +22,7 @@ Recently, I’ve expanded my expertise into AI and Prompt Engineering, applying 
 - Led and participated in innovation and technical teams  
 
 ## 🚀 Featured Projects
+- 🇸🇦 [Kingdom Journey](https://almha10.github.io/Kingdom-Journey/) – Built an Arabic interactive travel web app showcasing Saudi regions, landmarks, and achievements with a modern visual experience.
 - 📊 KPI Dashboard (Power BI) – Enabled KPI tracking and supported data-driven decision-making
 - 🤖 AI Sales Prediction Model – Achieved 99% forecasting accuracy using machine learning
 - 🔐 Secure Encryption Platform – Built a system for secure text & image data sharing
