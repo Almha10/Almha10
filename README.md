@@ -1,6 +1,6 @@
 # 👩‍💻 Almaha Alanzi
 ### Project Management | Data & AI | Prompt Engineering
-### 🚀 Building intelligent systems, not just dashboards
+### 🚀 Building intelligent, data-driven systems that solve real-world problems
 
 I’m a Computer Science graduate specializing in Project Management, Data, and Artificial Intelligence. I have hands-on experience working within a PMO environment, where I contributed to building KPI dashboards using Power BI and supporting data-driven decision-making.
 
