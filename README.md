@@ -39,4 +39,4 @@ AI • Data Analytics • Project Management • Digital Products • Innovation
 
 ## 📫 Contact
 - Email: Almhakhalaf@gmail.com  
-- LinkedIn: [Maha Alanzi](https://www.linkedin.com/in/almha-alanazi-226192265/)
+- LinkedIn: [Almaha Alanzi](https://www.linkedin.com/in/almha-alanazi-226192265/)
