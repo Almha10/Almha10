@@ -69,7 +69,6 @@ Designed and developed interactive dashboards to track internal and external pro
 - Dashboard Design & Visualization
 ---
 
---
 ## 🔗 Connect with Me
 
 * 🌐 Portfolio: https://almha10.github.io/portfolio/
