@@ -28,7 +28,7 @@ Recently, I’ve expanded my expertise into AI and Prompt Engineering, applying 
 - 🔐 Secure Encryption Platform – Built a system for secure text & image data sharing "Graduation project."
 - 🎮 LudusHub – Developing a gaming community platform (in progress)
 - ⛏️ [Mining Data Engineering Pipeline](https://github.com/Almha10/Mining-Data-Pipeline) – Built an end-to-end data pipeline for mining data analysis and machine learning insights 2025
-- 🇸🇦 [Saudi National Day Birth Year Events]([https://almha10.github.io/Saudi-National-Day-Birth-Year-Events/](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git)) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.2024
+- 🇸🇦 [Saudi National Day Birth Year Events]([https://almha10.github.io/Saudi-National-Day-Birth-Year-Events/](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.2024
 
   ## 🛠 Skills
 - Power BI, Excel, Data Analysis  
