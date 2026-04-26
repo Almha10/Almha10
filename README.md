@@ -41,6 +41,7 @@ Designed and developed interactive dashboards to track internal and external pro
 
 * 📈 **Mining Data Engineering Pipeline**
   Built an end-to-end pipeline for data processing, transformation, and analytics insights.
+* 📈 Coffee Sales Forecasting [GitHub:]( https://github.com/Almha10/Coffee-Sales-Forecasting-using-Time-Series ) Time series model to analyze and predict coffee sales using Python.
   
 * [Saudi National Day Birth Year Events](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.
 
