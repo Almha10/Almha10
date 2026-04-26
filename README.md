@@ -37,7 +37,7 @@ Designed and developed interactive dashboards to track internal and external pro
 
 * 🇸🇦 [Kingdom Journey](https://almha10.github.io/Kingdom-Journey/) – Built an Arabic interactive travel web app showcasing Saudi regions, landmarks, and achievements with a modern visual experience.
 
-* 🎮 [LudusHub](https://ludushub-platform-na4uzjzpx-maahaa332255-gmailcoms-projects.vercel.app/ar)
+* 🎮 [LudusHub](https://ludushub-platform.vercel.app)
   Developing a gaming community platform focused on connecting players and building interactive communities.
 
 * 📈 **Mining Data Engineering Pipeline**
