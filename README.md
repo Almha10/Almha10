@@ -45,16 +45,31 @@ Designed and developed interactive dashboards to track internal and external pro
   
 * [Saudi National Day Birth Year Events](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.
 
+---
+## 🛠 Skills
+
+**Technical Skills**
+- Frontend Development: Next.js, React, JavaScript, HTML, CSS
+- Data & Analytics: Power BI, Data Analysis, KPI Dashboards
+- Backend & Database: Supabase, REST APIs
+- Tools & Platforms: Git, GitHub, Odoo, Vercel
+---
+
+**Professional Skills**
+- Project Management
+- Data-Driven Decision Making
+- Problem Solving
+- Communication & Team Collaboration
 
 
 ---
-
-## 📍 Location
-
-Riyadh & Eastern Region, Saudi Arabia
-
+**Additional Skills**
+- Prompt Engineering
+- UI/UX Design
+- Dashboard Design & Visualization
 ---
 
+--
 ## 🔗 Connect with Me
 
 * 🌐 Portfolio: https://almha10.github.io/portfolio/
