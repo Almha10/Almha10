@@ -32,17 +32,20 @@ I specialize in developing smart dashboards and digital solutions that support r
   → Live Demo: https://patient-flow-command-center.vercel.app
   → GitHub: https://github.com/Almha10/patient-flow-command-center
 
-* 📊 **KPI Dashboard (Power BI)**
-  Built interactive dashboards to monitor performance and support data-driven decision-making.
+* 📊 KPI Dashboard (Power BI)  
+Designed and developed interactive dashboards to track internal and external project performance during my training, providing real-time visibility on KPIs, improving reporting efficiency, and supporting data-driven decisions within a PMO environment.
 
-* 🔐 **Secure Encryption Platform**
-  Developed a system for secure text and image sharing using encryption techniques.
+* 🇸🇦 [Kingdom Journey](https://almha10.github.io/Kingdom-Journey/) – Built an Arabic interactive travel web app showcasing Saudi regions, landmarks, and achievements with a modern visual experience.
 
 * 🎮 **LudusHub**
   Developing a gaming community platform focused on connecting players and building interactive communities.
 
 * 📈 **Mining Data Engineering Pipeline**
   Built an end-to-end pipeline for data processing, transformation, and analytics insights.
+  
+* [Saudi National Day Birth Year Events](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.
+
+
 
 ---
 
