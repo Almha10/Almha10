@@ -29,8 +29,7 @@ I specialize in developing smart dashboards and digital solutions that support r
 
 * 🏥 **Patient Flow Command Center**
   Developed a smart hospital operations dashboard that simulates real-time patient flow, ER pressure, bed occupancy, staff workload, and predictive insights for decision support.
-  → Live Demo: https://patient-flow-command-center.vercel.app
-  → GitHub: https://github.com/Almha10/patient-flow-command-center
+  [Live Demo](https://patient-flow-command-center.vercel.app)
 
 * 📊 KPI Dashboard (Power BI)  
 Designed and developed interactive dashboards to track internal and external project performance during my training, providing real-time visibility on KPIs, improving reporting efficiency, and supporting data-driven decisions within a PMO environment.
