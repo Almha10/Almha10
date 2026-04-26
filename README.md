@@ -1,45 +1,63 @@
-# 👩‍💻 Almaha Alanzi
-### Project Management | Data & AI | Prompt Engineering
-### 🚀 Building intelligent, data-driven systems that solve real-world problems
+## 👋👩‍💻 Hi, I'm Almaha Alanzi
 
-I’m a Computer Science graduate specializing in Project Management, Data, and Artificial Intelligence. I have hands-on experience working within a PMO environment, where I contributed to building KPI dashboards using Power BI and supporting data-driven decision-making.
+Computer Science graduate passionate about building data-driven and AI-powered systems.
 
-During my journey, I’ve worked on real-world systems—from developing operational dashboards and predictive models to contributing to cybersecurity practices and compliance initiatives. I enjoy transforming data into actionable insights and building intelligent solutions that solve practical problems.
+I specialize in developing smart dashboards and digital solutions that support real-time decision-making and improve operational efficiency.
 
-Recently, I’ve expanded my expertise into AI and Prompt Engineering, applying them to create smarter, more interactive systems. I’m particularly interested in building digital products that combine data, AI, and user experience to deliver real impact.
+---
 
 ## 🧠 What I’m Focused On
-- Building data-driven and AI-powered solutions  
-- Applying prompt engineering in real-world use cases  
-- Developing systems that support decision-making  
-- Exploring AI applications in products and platforms  
+
+* Building data-driven and AI-powered solutions
+* Applying prompt engineering in real-world use cases
+* Developing systems that support decision-making
+* Exploring AI applications in digital products and platforms
+
+---
 
 ## 🛠 Experience Highlights
-- Built KPI dashboards to monitor performance and support strategic planning  
-- Worked within PMO operations using tools like Odoo and Power BI  
-- Contributed to cybersecurity practices and compliance (CCC)  
-- Developed predictive models and data analysis projects  
-- Led and participated in innovation and technical teams  
+
+* Built KPI dashboards to monitor performance and support strategic planning
+* Worked within PMO operations using tools like Odoo and Power BI
+* Contributed to cybersecurity practices and compliance (CCC)
+* Developed data analysis and predictive models
+* Led and participated in technical and innovation teams
+
+---
 
 ## 🚀 Featured Projects
--🏥 [Patient Flow Command Center](https://patient-flow-command-center.vercel.app  ) – Built a smart hospital operations dashboard that simulates real-time patient flow, ER monitoring, bed occupancy, staff distribution, and predictive insights.  
-- 🇸🇦 [Kingdom Journey](https://almha10.github.io/Kingdom-Journey/) – Built an Arabic interactive travel web app showcasing Saudi regions, landmarks, and achievements with a modern visual experience.
-- 📊 KPI Dashboard (Power BI) – Enabled KPI tracking and supported data-driven decision-making
-- 🔐 Secure Encryption Platform – Built a system for secure text & image data sharing "Graduation project."
-- 🎮 LudusHub – Developing a gaming community platform (in progress)
-- ⛏️ [Mining Data Engineering Pipeline](https://github.com/Almha10/Mining-Data-Pipeline) – Built an end-to-end data pipeline for mining data analysis and machine learning insights 2025
-- 🇸🇦 [Saudi National Day Birth Year Events](https://github.com/Almha10/94-Saudi-National-Day-Birth-Year-Events.git) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.2024
 
-  ## 🛠 Skills
-- Power BI, Excel, Data Analysis  
-- Project Management (PMO, Odoo)  
-- AI & Prompt Engineering  
-- Python, SQL  
-- Cybersecurity Fundamentals
+* 🏥 **Patient Flow Command Center**
+  Developed a smart hospital operations dashboard that simulates real-time patient flow, ER pressure, bed occupancy, staff workload, and predictive insights for decision support.
+  → Live Demo: https://patient-flow-command-center.vercel.app
+  → GitHub: https://github.com/Almha10/patient-flow-command-center
 
-## 🚀 Interests
-AI • Data Analytics • Project Management • Digital Products • Innovation
+* 📊 **KPI Dashboard (Power BI)**
+  Built interactive dashboards to monitor performance and support data-driven decision-making.
 
-## 📫 Contact
-- Email: Almhakhalaf@gmail.com  
-- LinkedIn: [Almaha Alanzi](https://www.linkedin.com/in/almha-alanazi-226192265/)
+* 🔐 **Secure Encryption Platform**
+  Developed a system for secure text and image sharing using encryption techniques.
+
+* 🎮 **LudusHub**
+  Developing a gaming community platform focused on connecting players and building interactive communities.
+
+* 📈 **Mining Data Engineering Pipeline**
+  Built an end-to-end pipeline for data processing, transformation, and analytics insights.
+
+---
+
+## 📍 Location
+
+Riyadh & Eastern Region, Saudi Arabia
+
+---
+
+## 🔗 Connect with Me
+
+* 🌐 Portfolio: https://almha10.github.io/portfolio/
+* 💼 LinkedIn: https://www.linkedin.com/in/almha-alanazi-226192265/
+* 🐦 X (Twitter): https://x.com/ffutAl1
+
+---
+
+✨ Always interested in building impactful digital products that combine data, AI, and user experience.
