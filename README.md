@@ -22,11 +22,11 @@ Recently, I’ve expanded my expertise into AI and Prompt Engineering, applying 
 - Led and participated in innovation and technical teams  
 
 ## 🚀 Featured Projects
+-🏥 [Patient Flow Command Center](https://patient-flow-command-center.vercel.app  ) – Built a smart hospital operations dashboard that simulates real-time patient flow, ER monitoring, bed occupancy, staff distribution, and predictive insights.  
 - 🇸🇦 [Kingdom Journey](https://almha10.github.io/Kingdom-Journey/) – Built an Arabic interactive travel web app showcasing Saudi regions, landmarks, and achievements with a modern visual experience.
 - 📊 KPI Dashboard (Power BI) – Enabled KPI tracking and supported data-driven decision-making
 - 🔐 Secure Encryption Platform – Built a system for secure text & image data sharing "Graduation project."
 - 🎮 LudusHub – Developing a gaming community platform (in progress)
-- - 🇸🇦 [Kingdom Journey](https://github.com/Almha10/Kingdom-Journey) – Built an Arabic interactive travel web app showcasing Saudi regions with a modern visual experience.
 - ⛏️ [Mining Data Engineering Pipeline](https://github.com/Almha10/Mining-Data-Pipeline) – Built an end-to-end data pipeline for mining data analysis and machine learning insights 2025
 - 🇸🇦 [Saudi National Day Birth Year Events](https://almha10.github.io/Saudi-National-Day-Birth-Year-Events/) – Built an Arabic interactive web experience that matches a user's birth year with a Saudi national achievement.2024
 
