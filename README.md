@@ -74,7 +74,7 @@ Designed and developed interactive dashboards to track internal and external pro
 * 🌐 Portfolio: https://almha10.github.io/portfolio/
 * 💼 LinkedIn: https://www.linkedin.com/in/almha-alanazi-226192265/
 * 🐦 X (Twitter): https://x.com/ffutAl1
-
+📄 My CV: [View CV](https://drive.google.com/file/d/16dY1eS4rOpwOjgYJH05knLvX2ziGffsq/view?usp=drive_link)
 ---
 
 ✨ Always interested in building impactful digital products that combine data, AI, and user experience.
